@@ -1,5 +1,5 @@
-# contrastive_learning_128
-script downloading and using the model(github):
+
+script for downloading and using the model(github): ----------------------------------------------------------------------------------------------
 !git clone -b project [https://github.com/ubaid_iSogCLR.git](https://github.com/mdubaidkhan/contrastive_learning_128.git) iSogCLR
 
 !export PYTHONPATH="$PYTHONPATH:./iSogCLR/bimodal_exps"
