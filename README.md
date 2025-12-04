@@ -21,7 +21,7 @@ script downloading and using the model(github):
 !pip install -r ./iSogCLR/requirements_colab.txt    # there may be pip warnings/ errors, should be fine to ignore them
 
 
---------------------------------------------------------------#######-----------------------------------------------------------------------
+--------------------------------------------------------------#######----------------------------------------------------------------------------------
 Script to evaluate the model
 
 
